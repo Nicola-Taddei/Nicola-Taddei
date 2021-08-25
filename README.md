@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Nicola-Taddei
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...   
-- 📫 How to reach me ...
+Hi, I'm Nicola :wave:
 
-<!---
-Nicola-Taddei/Nicola-Taddei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I currently study Automation engineering at Politecnico in Milan :robot:
 
-Prova
+My passion for robotics and coding brought me to take part in competitions like [RoboCup JR](http://www.robocupjunior.it/), [OIS](https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/homepage), [CyberChallenge](https://cyberchallenge.it/)
+
+My main experience in the development of a long term project is the design and construction of a line-follower robot for RoboCup JR ([RL2019-20](https://github.com/Ettore-Tancredi/RL2019-20)) in collaboration con [@Ettore-Tancredi](https://github.com/Ettore-Tancredi) members 
+
+In the future I hope to contribute to open source projects :smiley:
+
