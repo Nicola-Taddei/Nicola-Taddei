@@ -1,4 +1,4 @@
-Hi, I'm Nicola :wave:
+#### Hi, I'm Nicola :wave:
 
 I currently study Automation engineering at Politecnico in Milan :robot:
 
@@ -7,5 +7,6 @@ My passion for robotics and coding brought me to take part in competitions like 
 My main experience in the development of a long term project is the design and construction of a line-follower robot for RoboCup JR ([Rescue Line](https://github.com/Ettore-Tancredi/RL2019-20)) in collaboration con [@Ettore-Tancredi](https://github.com/orgs/Ettore-Tancredi/projects) members.
 
 I'm currently collaborating with [@luigi-massacci](https://github.com/luigi-massacci) in writing a guide to the RoboCup JR-Line Follower competition with open source software and tips for the design and realization of the robot itself.
+
 In the future I hope to contribute to more open source projects :smiley:
 
