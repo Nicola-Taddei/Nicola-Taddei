@@ -1,10 +1,21 @@
-#### Hi, I'm Nicola :wave:
+#### Hi, I'm Nicola 👋
 
-I currently study Robotics, Systems and Control at ETH Zurich :robot:
+Robotics, Systems and Control MSc candidate at ETH Zürich 🤖
 
-My passion for robotics and coding brought me to take part in competitions like [AI-DO](https://duckietown.com/research/ai-driving-olympics/), [RoboCup JR](https://junior.robocup.org/), [OIS](https://sites.google.com/aldini.istruzioneer.it/olimpiadi-informatica-squadre/homepage), [CyberChallenge](https://cyberchallenge.it/)
+**Research Focus:**
+- Robot Learning & Embodied AI
+- Reasoning (intended as planning for out-of-distribution tasks)
+- Control Theory
+- Theoretical AI/interpretability
 
-My main academic interests are Control Theory and Reinforcement Learning. 
+**Current Projects:**
+- Master Thesis: Learning-from-preference methods for multi-robot trajectory planning
+- OpenRobotGPT: LLM-powered natural language task planning with ROS2
+- ARC-AGI: Transformer-based RL for reasoning tasks
 
-I am currrently engaged in a university project within the field of promptable robots ([OpenRobotGPT](https://github.com/Nicola-Taddei/OpenRobotGPT)). Our goal is to construct an open-source platform serving as a foundational framework for researchers utilizing a code-as-policy approach to rapidly test their ideas. If you are interested in collaborating on the project, please don't hesitate to contact me. 😃
+**Technical Stack:**
+Python • PyTorch • JAX • ROS2 • C++ • Docker
 
+Previously: AI-Driving Olimpics competitor, RoboCup JR participant, and teaching assistant for Dynamic Programming and Optimal Control at ETH.
+
+Open to research collaborations in robotics/AI/control!
