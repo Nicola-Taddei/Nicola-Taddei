@@ -2,6 +2,8 @@
 
 Robotics, Systems and Control MSc candidate at ETH Zürich 🤖
 
+Working part-time as Teaching Assistant for Dynamic Programming and Optimal Control at ETH.
+
 **Research Focus:**
 - Robot Learning & Embodied AI
 - Reasoning (intended as planning for out-of-distribution tasks)
@@ -16,6 +18,9 @@ Robotics, Systems and Control MSc candidate at ETH Zürich 🤖
 **Technical Stack:**
 Python • PyTorch • JAX • ROS2 • C++ • Docker
 
-Previously: AI-Driving Olimpics competitor, RoboCup JR participant, and teaching assistant for Dynamic Programming and Optimal Control at ETH.
+Previously: 
+- AI-Driving Olimpics competitor
+- National Finalist, Italian Informatics Olympiad (4th place)
+- RoboCup Junior competitor
 
 Open to research collaborations in robotics/AI/control!
