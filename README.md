@@ -10,7 +10,7 @@ Robotics, Systems and Control MSc candidate at ETH Zürich 🤖
 
 **Current Projects:**
 - Master Thesis: Learning-from-preference methods for multi-robot trajectory planning
-- OpenRobotGPT: LLM-powered natural language task planning with ROS2
+- OpenRobotGPT: LLM-powered natural language task planning for a robotic arm with ROS2
 - ARC-AGI: Transformer-based RL for reasoning tasks
 
 **Technical Stack:**
