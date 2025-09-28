@@ -2,7 +2,7 @@
 
 Robotics, Systems and Control MSc candidate at ETH Zürich 🤖
 
-Working part-time as Teaching Assistant for Dynamic Programming and Optimal Control at ETH.
+Working part-time as Teaching Assistant for the Dynamic Programming and Optimal Control course at ETH.
 
 **Research Focus:**
 - Robot Learning & Embodied AI
