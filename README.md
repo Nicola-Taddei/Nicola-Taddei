@@ -1,26 +1,15 @@
-#### Hi, I'm Nicola 👋
+Hi, I’m Nicola
 
-Robotics, Systems and Control MSc candidate at ETH Zürich 🤖
+MSc candidate in Robotics, Systems and Control at ETH Zürich.  
+Teaching Assistant for Dynamic Programming and Optimal Control.
 
-Working part-time as Teaching Assistant for the Dynamic Programming and Optimal Control course at ETH.
+Interests: machine learning for autonomous systems, distributed learning, planning and control.
 
-**Research Focus:**
-- Robot Learning & Embodied AI
-- Reasoning (intended as planning for out-of-distribution tasks)
-- Control Theory
-- Theoretical AI/interpretability
+Current work includes:
+- Learning-from-preference methods for multi-robot trajectory planning (Master’s thesis)
+- Natural language task planning for robotics (ROS2)
+- Reinforcement learning for structured decision-making tasks
 
-**Current Projects:**
-- Master Thesis: Learning-from-preference methods for multi-robot trajectory planning
-- OpenRobotGPT: LLM-powered natural language task planning for a robotic arm with ROS2
-- ARC-AGI: Transformer-based RL for reasoning tasks
+Technical stack: Python, PyTorch, JAX, ROS2, C++, Docker
 
-**Technical Stack:**
-Python • PyTorch • JAX • ROS2 • C++ • Docker
-
-Previously: 
-- AI-Driving Olimpics competitor
-- National Finalist, Italian Informatics Olympiad (4th place)
-- RoboCup Junior competitor
-
-Open to research collaborations in robotics/AI/control!
+Open to research collaborations in robotics, AI, and control.
